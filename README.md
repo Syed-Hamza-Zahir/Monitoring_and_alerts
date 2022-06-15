@@ -1,5 +1,7 @@
 # Monitoring_and_alerts
 
+![aws.png](.aws.png)
+
 We can monitor all sorts of metrics:
 - error logs
 - budgeting
@@ -27,10 +29,10 @@ Three monitoring services in AWS
 - SNS - Simple notification
 - SQS - Simple queue service
 
-
-We will be working with SNS 
 CloudWatch enables you to monitor your complete stack (applications, infrastructure, and services) and use alarms, logs, and events data to take automated actions and reduce mean time to resolution (MTTR). This frees up important resources and allows you to focus on building applications and business value.
 
-# Create SNS notifications on AWS
+## Create SNS notifications on AWS
 To receive email notifications, you will need to create an alarm in Cloudwatch and subscribe to it using your email.
-(for a specific instance click Actions on instance page,
+
+# Autoscaling and load balancing 
+![lb.png/(.lb.png)
