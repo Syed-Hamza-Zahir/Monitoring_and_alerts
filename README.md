@@ -1,7 +1,7 @@
 # Monitoring_and_alerts
 
-![aws.png](/aws.png)
-
+![aws_disgram.png](/aws_diargam.png)
+<br></br>
 We can monitor all sorts of metrics:
 - error logs
 - budgeting
@@ -35,4 +35,4 @@ CloudWatch enables you to monitor your complete stack (applications, infrastruct
 To receive email notifications, you will need to create an alarm in Cloudwatch and subscribe to it using your email.
 
 # Autoscaling and load balancing 
-![lb.png/(/lb.png)
+![lb.png](/lb.png)
