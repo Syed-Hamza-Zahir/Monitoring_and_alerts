@@ -1,6 +1,6 @@
 # Monitoring_and_alerts
 
-![aws_diagram.png](/aws_diargam.png)
+![aws_diagram.png](/aws_diagram.png)
 <br></br>
 We can monitor all sorts of metrics:
 - error logs
